@@ -1,0 +1,25 @@
+.profile-pic {
+    width: 20%;
+    display: block;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+.slogan {}
+
+.links {
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 2%;
+}
+
+.contents {
+    display: block;
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 40%;
+    padding-left: 5%;
+}
