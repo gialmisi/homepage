@@ -1,25 +1,70 @@
+body {
+    background-color: #F5F5F5;
+    color: #212427;
+}
+
 .profile-pic {
     width: 20%;
     display: block;
-    position: absolute;
-    top: 50px;
-    right: 50px;
+    position: fixed;
+    top: 5%;
+    right: 2%;
 }
 
-.slogan {}
+.title-name {
+    text-align: center;
+}
+
+.title-title {
+    text-align: center;
+}
+
+.slogan {
+    font-size: large;
+    text-align: center;
+}
 
 .links {
     display: block;
-    position: absolute;
-    top: 10px;
-    left: 2%;
+    float: left;
+    width: 10%;
+    position: fixed;
+}
+
+.links>li {
+    display: inline-block;
+}
+
+.links>ul {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0;
+}
+
+.links>.subtitle {
+    text-align: left;
 }
 
 .contents {
     display: block;
-    float: left;
     margin-top: 2%;
     margin-left: 10%;
-    margin-right: 40%;
-    padding-left: 5%;
+    margin-right: 25%;
+    padding-left: 2%;
+    text-align: justify;
+}
+
+.contents>p {
+    margin-left: 5%;
+    margin-right: 15%;
+}
+
+.projects-content>h4 {
+    margin-left: 2.5%;
+}
+
+.projects-content>p {
+    margin-left: 5%;
+    margin-right: 15%;
 }
