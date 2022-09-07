@@ -1,6 +1,7 @@
 body {
     background-color: #F5F5F5;
     color: #212427;
+    padding-bottom: 50%;
 }
 
 .profile-pic {
@@ -56,7 +57,7 @@ body {
 }
 
 .contents>p {
-    margin-left: 5%;
+    margin-left: 2.5%;
     margin-right: 15%;
 }
 
@@ -66,5 +67,9 @@ body {
 
 .projects-content>p {
     margin-left: 5%;
+    margin-right: 15%;
+}
+
+h4 {
     margin-right: 15%;
 }
