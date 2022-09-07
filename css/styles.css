@@ -1,7 +1,7 @@
 body {
     background-color: #F5F5F5;
     color: #212427;
-    padding-bottom: 50%;
+    padding-bottom: 25%;
 }
 
 .profile-pic {
@@ -30,6 +30,7 @@ body {
     float: left;
     width: 10%;
     position: fixed;
+    margin-left: 10px;
 }
 
 .links>li {
@@ -40,6 +41,7 @@ body {
     display: inline-block;
     list-style-type: none;
     padding: 0;
+    padding-left: 5px;
     margin-top: 0;
 }
 
@@ -50,7 +52,7 @@ body {
 .contents {
     display: block;
     margin-top: 2%;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 25%;
     padding-left: 2%;
     text-align: justify;
