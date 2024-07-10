@@ -4,6 +4,7 @@ site_dir: "site"
 
 nav:
   - Giovanni: "index.md"
+  - Publications: "publications.md"
   - Dissemination: "dissemination.md"
 
 watch:

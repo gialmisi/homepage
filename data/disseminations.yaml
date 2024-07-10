@@ -61,7 +61,7 @@ tutorials:
     event: "DEMO seminar, University of Jyväskylä"
     date: "2021"
     recording: "https://www.youtube.com/watch?v=DC1Dn4DBEwk"
-    slides: "data/slides/DEMO_tutorial_01122021"
+    slides: "data/slides/DEMO_tutorial_01122021.pdf"
   - title: "The DESDEO web stack and its components"
     event: "DEMO seminar, University of Jyväskylä"
     date: "2021"
