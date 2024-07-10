@@ -1,0 +1,11 @@
+educations:
+  - degree: "PhD, Computational Science"
+    details: "Title of thesis: Enhancing the decision-support capabilities of interactive multiobjective optimization with explainability. The thesis was supervised by Prof. Kaisa Miettinen and Dr. Bekir Afsar"
+    institution: "University of Jyväskylä"
+    year: "2024"
+  - degree: "MSc, Computer Science"
+    institution: "University of Jyväskylä"
+    year: "2020"
+  - degree: "BSc in Physics"
+    institution: "University of Jyväskylä"
+    year: "2016"
