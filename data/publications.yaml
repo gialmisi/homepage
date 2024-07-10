@@ -1,0 +1,15 @@
+publications:
+  - title: "Designing empirical experiments to compare interactive multiobjective optimization methods"
+    authors: "B. Afsar, J. Silvennoinen, G. Misitano, F. Ruiz, A. B. Ruiz, K. Miettinen"
+    journal: "Journal of the Operational Research Society"
+    year: "2022"
+    doi: "https://doi.org/10.1080/01605682.2022.2141145"
+    open_access: "http://urn.fi/URN:NBN:fi:jyu-202211105142"
+
+  - title: "Integration of lot sizing and safety strategy placement using interactive multiobjective optimization"
+    authors: "A. Kania, J. Sipilä, G. Misitano, K. Miettinen, J. Lehtimäki"
+    journal: "Computers & Industrial Engineering"
+    year: "2022"
+    doi: "https://doi.org/10.1016/j.cie.2022.108731"
+    open_access: "http://urn.fi/URN:NBN:fi:jyu-202210244957"
+

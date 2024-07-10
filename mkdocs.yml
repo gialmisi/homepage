@@ -1,0 +1,41 @@
+site_name: "Giovanni Misitano"
+docs_dir: "docs"
+site_dir: "site"
+
+nav:
+  - Giovanni: "index.md"
+  - Dissemination: "dissemination.md"
+
+watch:
+  - docs
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - palette.switch
+    - navigation.tabs
+    - navigation.tabs.sticky
+  nav_style: dark
+  locale: en
+  palette:
+    scheme: slate
+    primary: black
+  logo: assets/giovanni.jpg
+  favicon: assets/favicon.ico
+
+plugins:
+  - search
+  - include-markdown
+  - macros:
+      module_name: macros/main
+
+extra:
+  macros_dir: "macros"
+  data_dir: "data"
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2

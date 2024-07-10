@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "gialmisi-github-io"
+version = "0.1.0"
+description = "My personal homepage."
+authors = ["Giovanni Misitano <giovanni.a.misitano@jyu.fi>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "gialmisi"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.6.0"
+mkdocs-material = "^9.5.28"
+mkdocs-include-markdown-plugin = "^6.2.1"
+mkdocs-macros-plugin = "^1.0.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
