@@ -1,4 +1,33 @@
 teachings:
+  - course: "TIES5830: Course on Data-driven Optimization and Decision Making"
+    institution: "University of Jyväskylä"
+    position: "Lecturer"
+    period: "2024"
+    details: >-
+      I have prepared and gave lectures during the course related to data-driven interactive
+      multiobjective optimization focusing on practical aspects and how to best support
+      decision makers in tackling multiobjective optimization problems.
+  - course: "Physics Student Laboratory"
+    institution: "University of Jyväskylä"
+    position: "Teaching Assistant"
+    period: "2016 - 2024"
+    details: >-
+      I have worked as a teaching assistant in the student laboratory of the
+      Physics Department of the University of Jyvsäskylä. I have supervised both
+      bachelor and master level student in various kinds of physics experiments,
+      which are part of different physics courses.  I have also been the
+      corresponding teacher in grading and supervising a larger laboratory
+      assignment, where students must write a full report on a physics
+      experiment and its results.
+  - course: "TIES598: Nonlinear Multiobjective Optimization Course"
+    institution: "University of Jyväskylä"
+    position: "Lecturer"
+    period: "2023"
+    details: >-
+      During the course, I prepared and delivered lectures on data-driven
+      interactive multiobjective optimization. The focus was on practical
+      applications and providing optimal support for decision makers in addressing
+      multiobjective optimization challenges.
   - course: "COM1: Interactive Multiobjective Optimization: Applications and Tools to Support Decision Making"
     institution: "The 31st Jyväskylä Summer School, University of Jyväskylä"
     position: "Lecturer"
@@ -9,11 +38,21 @@ teachings:
       a teacher in the practical sessions during the whole duration of the
       course, where we focused on utilzing the DESDEO framework to model and
       and solve multiobjective optimization problems.
+  - course: "Tools and best practices for scientific software development"
+    institution: "University of Jyväskylä"
+    position: "Lecturer"
+    period: "2022"
+    details: >-
+      I was a lecturer at a local CoreRefinery workshop at the University of
+      Jyväskylä.  During the course, we taught the course participants about
+      practicalities and good practices when developing code, focusing
+      especially on version control utilizing git, and collaborative softwrae
+      developing on GitHub.
   - course: "Various introductory and advanced bachelor-level physics courses"
     institution: "University of Jyväskylä"
     position: "Teaching Assistant, Lecturer"
     period: "2015 - 2020"
     details: >-
       Various physics courses. I have been working as a teaching assistant,
-      occasionally as a lectuer as well, in around a dozen university physics
+      occasionally as a lecturer as well, in around a dozen university physics
       courses, both at an introductory and at an advanced level.

@@ -1,0 +1,33 @@
+projects:
+  - name: "DESIDES"
+    organization: Research Council of Finland
+    id: 355346
+    period: "2023 - ongoing"
+    details: >
+      I am in charge of one of the three work packages of the project. In the
+      work package, I continue to research the concept and application of
+      explainable and interactive multiobjective optimization, a topic I
+      explored in my doctoral thesis.
+  - name: "DAEMON"
+    organization: Research Council of Finland
+    id: 322221
+    period: "2019 - 2023"
+    details: >
+      I kept contributing to the DESDEO framework, focusing on the development
+      of web-based user interfaces for interactive multiobjective optimization.
+      The work led to publications, where the interfaces have been utilized to
+      conduct user studies to evaluate the decision-support capabilities of
+      various interactive multiobjective optimization methods.  I also
+      contributed to studies related to lot-sizing, and researching the semantic
+      distances of icons in user interfaces for interactive multiobjective
+      optimization methods.
+  - name: "DESDEO"
+    organization: Research Council of Finland
+    id: 287496
+    period: "2015 - 2019"
+    details: >
+      I contributed to the DESDEO framework, spearheading its re-implementation.
+      I focused on the tools to model multiobjective optimization problems, and 
+      on implementing scalarization-based interactive multiobjective optimization methods.
+
+experience:
