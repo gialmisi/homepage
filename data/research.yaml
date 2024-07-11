@@ -8,6 +8,13 @@ projects:
       work package, I continue to research the concept and application of
       explainable and interactive multiobjective optimization, a topic I
       explored in my doctoral thesis.
+  - name: "Logistics order-supply chain modelling and optimization"
+    organization: University of Jyväskylä, Tietoevry
+    period: "2023 - ongoing"
+    details: >
+      Modelling and solving multiobjective optimization problems related to
+      order-supply chains. Due to confidential reasons, no more details can be
+      given at this time.
   - name: "DAEMON"
     organization: Research Council of Finland
     id: 322221
@@ -30,4 +37,40 @@ projects:
       I focused on the tools to model multiobjective optimization problems, and 
       on implementing scalarization-based interactive multiobjective optimization methods.
 
-experience:
+positions:
+  - position: Research Assistant
+    organization: Multiobjective Optimization Group, University of Jyväskylä, Finland
+    period: 2019 - 2020
+    details: >
+      I mainly worked on my master's thesis and on DESDEO, the open source
+      Python software framework for interactive multiobjective optimization. 
+      Others tasks involved web-development and supporting the research group
+      members in various technical tasks.
+  - position: Trainee
+    organization: CERN, Switzerland
+    period: summer of 2018
+    details: >
+      I worked on building deep neural networks to predict particle
+      trajectories in the CMS (*compact muon solenoid*) detector.
+      I utilized Keras to build and train a deep convoluted neural
+      network, and utilized real experiment data to train the model
+      utilizing supervised learning.
+  - position: Trainee
+    organization: Center for Underground Physics, Finland
+    period: summer of 2017
+    details: >
+      In the C14 experiment, I worked on signal analysis of data produced by
+      photo-multiplier tubes, and conducted practical hands-on work with
+      various apparatuses related to the experiment. In the EMMA experiment, I
+      worked one basic upkeep and maintenance work, including the
+      setup of a working gas circulation system for a set of pixel matrix
+      detectors utilizing very limited resources.
+  - position: Trainee
+    organization: LNGS (*Laboratori Nazionali del Gran Sasso), Italy
+    period: summer of 2016
+    details: >
+      I was part of the DAMA collaboration. I worked on the maintenance of
+      various experiments in the DAMA project. I also completed a project
+      involving computer vision and machine learning, where I built a program to
+      read the output of a webcam and infer the digits on a 8-segment
+      temperature gauge.
