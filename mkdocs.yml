@@ -3,10 +3,11 @@ docs_dir: "docs"
 site_dir: "site"
 
 nav:
-  - Giovanni: "index.md"
-  - Education and Teaching: "education.md"
-  - Research: "research.md"
+  - About Me: "index.md"
+  - Research Experience: "research.md"
   - Publications: "publications.md"
+  - Activities: "activities.md"
+  - Education and Teaching: "education.md"
   - Dissemination: "dissemination.md"
 
 watch:
