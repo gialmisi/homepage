@@ -38,6 +38,24 @@ projects:
       on implementing scalarization-based interactive multiobjective optimization methods.
 
 positions:
+  - position: Post-doctoral Researcher
+    organization: Multiobjective Optimization Group, University of Jyväskylä, Finland
+    period: 2024, ongoing
+    details: >
+      I am working in the Research Council of Finland funded project DESIDES.
+      My main research interest is continuing the line of work I established in
+      my doctoral thesis, where I study and apply the concept of explainability
+      in interactive multiobejective optimization methods.
+  - position: Doctoral Researcher
+    organization: Multiobjective Optimization Group, University of Jyväskylä, Finland
+    period: 2020 - 2024
+    details: >
+      Working on my doctoral thesis and developing the DESDEO framework.  My
+      thesis work was about applying and exploring the concept of
+      explainability, as it is known in explainable artificial intelligence, to
+      interactive multiobjective optimization methods. The goal of the research
+      was to improve the decision-support capabilities of interactive
+      multiobjective optimization methods.
   - position: Research Assistant
     organization: Multiobjective Optimization Group, University of Jyväskylä, Finland
     period: 2019 - 2020

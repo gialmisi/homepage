@@ -3,7 +3,7 @@ docs_dir: "docs"
 site_dir: "site"
 
 nav:
-  - About Me: "index.md"
+  - Giovanni Misitano: "index.md"
   - Research Experience: "research.md"
   - Publications: "publications.md"
   - Activities: "activities.md"
@@ -43,3 +43,8 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

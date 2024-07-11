@@ -1,11 +1,37 @@
-activities:
-  position: President
-  organization: The Finnish Operations Research Society
-  period: 2023
-  details: >
+positions:
+  - position: EURO Representative
+    organization: The Finnish Operations Research Society, Association of European Operational Research Societies
+    period: 2024, ongoing
+    details: >
+      As representative, I represent the Finnish Operations Research Society on
+      an international level. I take part in the yearly board meeting of the
+      Association of European Operational Research Societies (EURO). I hold the
+      right to vote in the yearly board meeting of EURO.
+  - position: Treasurer
+    organization: The Finnish Operations Research Society
+    period: "2024, ongoing"
+    details: >
+      As treasurer, I am responsible for the finances of the society.
+      I am also a member of the society's current board.
+  - position: President
+    organization: The Finnish Operations Research Society
+    period: 2023
+    details: >
+      As president, I was in charge calling board meetings and making sure the
+      board promoted the interests of operation research researchers,
+      practitioners, and enthusiast residing in Finland. I was also the main
+      coordinator of the FORS50 conference, which was held at the University of
+      Jyväskylä in honor of the 50-year-anniversary of the society.
 
 rewards:
-  name:
-  date:
-  organization:
-  details: >
+  - name: >-
+      Award for best pitch related to information and communication technology or
+      telecommunications
+    date: 2022
+    organization: Millenium Graduate Student Contest
+    details: >
+      The reward was given by the Nokia Foundation, and consisted of a
+      certificate and cash reward of 5000 euros. The finalists gave the pitch
+      live during the Millennium Innovation Forum 2022.  The pitch I gave during
+      the event can be viewed on
+      [YouTube](https://www.youtube.com/watch?v=Rt1YKWaNG94).
