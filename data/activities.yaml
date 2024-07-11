@@ -1,11 +1,35 @@
 educations:
   - degree: "PhD, Computational Science"
-    details: "Title of thesis: Enhancing the decision-support capabilities of interactive multiobjective optimization with explainability. The thesis was supervised by Prof. Kaisa Miettinen and Dr. Bekir Afsar"
+    details: >-
+      Title of my PhD thesis: **Enhancing the decision-support capabilities of
+      interactive multiobjective optimization with explainability.** The thesis
+      was supervised by Prof. Kaisa Miettinen and Dr. Bekir Afsar. In my thesis,
+      I explore the concept of explainability, inspired by explainability in
+      explainable artificial intelligence, when applied to interactive
+      multiobjective optimization methods to better support decision makers.
     institution: "University of Jyväskylä"
     year: "2024"
+    url: "http://urn.fi/URN:ISBN:978-952-86-0183-8"
   - degree: "MSc, Computer Science"
+    details: >-
+      I completed my masters specializing in computational science. My master's
+      thesis was supervised by Prof. Kaisa Miettinen and Dr. Jussi Hakanen. In
+      my thesis, I implemented a new kind of interactive multiojective
+      optimization methods, which is able to learn a preference model of a
+      decision maker during an interactive process.  I applied belief rule-based
+      systems as a machine learning model to learn the preference model of a
+      decision maker.
     institution: "University of Jyväskylä"
     year: "2020"
+    url: "http://urn.fi/URN:NBN:fi:jyu-202007065235"
   - degree: "BSc in Physics"
+    details: >-
+      I completed my bachelor of physics focusing on experimental underground
+      physics. My bachelor thesis (written in Finnish) was supervised by Prof.
+      Jouni Suhonen. In my thesis, I surveyed the ongoing experiments at the
+      LNGS (*Laboratori Nazionali del Gran Sasso*), which study the double
+      beta-decay of various nuclei. I also compted the experimental upper limit
+      of the neutrino based on the experiments' results.
     institution: "University of Jyväskylä"
     year: "2016"
+    url: "http://urn.fi/URN:NBN:fi:jyu-202005043017"

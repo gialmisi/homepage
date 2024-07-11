@@ -1,11 +1,13 @@
 ---
 hide:
  - navigation
- - toc
 ---
-# Education
+## Education
 {% for edu in load_data('activities.yaml')['educations'] %}
-## {{ edu.degree }}
-*{{ edu.institution }} ({{ edu.year }})*
-{% if edu.details %}<br>{{ edu.details }}{% endif %}
+### {{ edu.degree }}
+*{{ edu.institution }} ({{ edu.year }})*<br>
+{{ edu.details }}<br>
+[Link to thesis]({{ edu.url }})
 {% endfor %}
+
+## Teaching

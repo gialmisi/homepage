@@ -4,7 +4,7 @@ site_dir: "site"
 
 nav:
   - Giovanni: "index.md"
-  - Education: "education.md"
+  - Education and Teaching: "education.md"
   - Research: "research.md"
   - Publications: "publications.md"
   - Dissemination: "dissemination.md"
