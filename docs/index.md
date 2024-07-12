@@ -18,39 +18,68 @@ interfaces and in the user experience in general from a cognition perspective.
 ## Contents
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   :material-telescope:{ .lg .middle } __Research Experience__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Check my past and current research experience and projects I am, and been,
+    involved in.
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Research Experience](./research.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :material-book:{ .lg .middle } __Publications__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    Read my publications, which are all either open access,
+    or have been published in parallel on open access platforms!
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: Publications](./publications.md)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :material-trophy:{ .lg .middle } __Activities and Rewards__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    Browse my current and past positions, rewards, nominations, and grants.
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Activities and Rewards](./activities.md)
+
+-   :material-school:{ .lg .middle } __Education and Teaching__
+
+    ---
+
+    See the degrees I have earned, and my teaching experience at a university level.
+
+    [:octicons-arrow-right-24: Education and Teaching](./education.md)
+
+-   :material-comment:{ .lg .middle } __Dissemination__
+
+    ---
+
+    Have a look at my conference presentations, invited talks and lectures,
+    posters, and more. Slides and recording are available for many of my
+    past dissemination activities!
+
+    [:octicons-arrow-right-24: Dissemination](./dissemination.md)
+
+-   :octicons-mark-github-24:{ .lg .middle } __Get your own page like this!__
+
+    ---
+
+    This page has been built using the materials theme for mkdocs.
+    The source code of this page is completely open and very easy to
+    modify and update. 
+
+    [:octicons-arrow-right-24: Visit GitHub](#)
 
 </div>
 
 ## Links, Social Media, Et Cetera
+<div class="grid cards" markdown>
+
+- [:fontawesome-brands-linkedin: __Connect with me on Linkedin__](https://linkedin.com/in/misitano)
+- [:fontawesome-brands-github: __Follow me on GitHub__](#)
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+</div>

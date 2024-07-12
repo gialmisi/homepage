@@ -2,7 +2,7 @@
 hide:
  - navigation
 ---
-# Activities
+# Activities and Rewards
 ## Positions
 {% for position in load_data('activities.yaml')['positions'] %}
 ### {{ position.position }}
@@ -10,10 +10,16 @@ hide:
 >{{ position.details }}{% endif %}
 {% endfor %}
 
-## Rewards
+## Rewards and Nominations
 {% for reward in load_data('activities.yaml')['rewards'] %}
 ### {{ reward.name }}
-{{ reward.date }}, {{ reward.organization }}<br>
+{{ reward.organization }}, {{ reward.date }}<br>
 >{{ reward.details }}
 {% endfor %}
 
+## Grants
+{% for funding in load_data('activities.yaml')['fundings'] %}
+### {{ funding.name }}
+{{ funding.organization }}, {{ funding.date }}<br>
+>{{ funding.details }}
+{% endfor %}

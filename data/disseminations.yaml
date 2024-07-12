@@ -33,6 +33,12 @@ invitations:
     event: "HIPPO Lab meeting, Delft University of Technology"
     date: "2023"
     slides: "data/slides/HIPPO2023.pdf"
+  - title: >-
+      Encore of the best pitch related to information and communication technology or
+      telecommunications
+    event: "Nokia Foundation Awards Ceremony 2022, Aalto University"
+    date: "2022"
+    slides: "data/slides/millenium_pitch.pdf"
   - title: "Explainable artificial intelligence and explainable multiobjective optimization"
     event: "CCLS seminar, University of Leiden"
     date: "2022"
