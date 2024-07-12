@@ -1,5 +1,5 @@
 site_name: "Giovanni Misitano"
-docs_dir: "docs"
+docs_dir: "website"
 site_dir: "site"
 
 nav:
@@ -11,7 +11,7 @@ nav:
   - Dissemination: "dissemination.md"
 
 watch:
-  - docs
+  - website
 
 theme:
   name: material
