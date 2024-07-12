@@ -1,4 +1,4 @@
-# Personal webpage with Material for MkDocs
+# Personal webpage built with Material for MkDocs
 This repository contains the contents and tools to build my own
 personal website. A lot of the contents is generated using templates and
 data stored in YAML files. This makes updating the contents easy. Modifying
@@ -6,7 +6,8 @@ the structure of the site is also straightforward since most can be achieved by 
 modifying the contents of markdown files.
 
 ## Dependencies
-The project is build using Python and MkDocs. The
+The project is build using Python, [MkDocs](https://www.mkdocs.org/),
+and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). The
 dependencies are listed in the file `pyproject.toml`.
 Python version 3.12 and up is required.
 
