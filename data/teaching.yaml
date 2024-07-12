@@ -14,7 +14,7 @@ teachings:
     details: >-
       I have worked as a teaching assistant in the student laboratory of the
       Physics Department of the University of Jyvsäskylä. I have supervised both
-      bachelor and master level student in various kinds of physics experiments,
+      bachelor and master level students in various kinds of physics experiments,
       which are part of different physics courses.  I have also been the
       corresponding teacher in grading and supervising a larger laboratory
       assignment, where students must write a full report on a physics
@@ -36,7 +36,7 @@ teachings:
       During the two-week summer school course, I prepared and delivered two
       whole-day lectures on interactive multiobjective optimization. I was also
       a teacher in the practical sessions during the whole duration of the
-      course, where we focused on utilzing the DESDEO framework to model and
+      course, where we focused on utilizing the DESDEO framework to model and
       and solve multiobjective optimization problems.
   - course: "Tools and best practices for scientific software development"
     institution: "University of Jyväskylä"
@@ -46,7 +46,7 @@ teachings:
       I was a lecturer at a local CoreRefinery workshop at the University of
       Jyväskylä.  During the course, we taught the course participants about
       practicalities and good practices when developing code, focusing
-      especially on version control utilizing git, and collaborative softwrae
+      especially on version control utilizing git, and collaborative software
       developing on GitHub.
   - course: "Various introductory and advanced bachelor-level physics courses"
     institution: "University of Jyväskylä"

@@ -24,7 +24,7 @@ projects:
       of web-based user interfaces for interactive multiobjective optimization.
       The work led to publications, where the interfaces have been utilized to
       conduct user studies to evaluate the decision-support capabilities of
-      various interactive multiobjective optimization methods.  I also
+      various interactive multiobjective optimization methods. I also
       contributed to studies related to lot-sizing, and researching the semantic
       distances of icons in user interfaces for interactive multiobjective
       optimization methods.
@@ -62,8 +62,8 @@ positions:
     details: >
       I mainly worked on my master's thesis and on DESDEO, the open source
       Python software framework for interactive multiobjective optimization. 
-      Others tasks involved web-development and supporting the research group
-      members in various technical tasks.
+      Other tasks involved web-development and supporting the research group
+      members in various technical aspects.
   - position: Trainee
     organization: CERN, Switzerland
     period: summer of 2018
@@ -80,11 +80,11 @@ positions:
       In the C14 experiment, I worked on signal analysis of data produced by
       photo-multiplier tubes, and conducted practical hands-on work with
       various apparatuses related to the experiment. In the EMMA experiment, I
-      worked one basic upkeep and maintenance work, including the
+      worked on basic upkeep and maintenance of the experiment, including the
       setup of a working gas circulation system for a set of pixel matrix
       detectors utilizing very limited resources.
   - position: Trainee
-    organization: LNGS (*Laboratori Nazionali del Gran Sasso), Italy
+    organization: LNGS (Laboratori Nazionali del Gran Sasso), Italy
     period: summer of 2016
     details: >
       I was part of the DAMA collaboration. I worked on the maintenance of
