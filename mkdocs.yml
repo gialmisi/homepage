@@ -26,7 +26,7 @@ theme:
   palette:
     scheme: slate
     primary: black
-  logo: assets/giovanni.jpg
+  logo: assets/giovanni.svg
   favicon: assets/favicon.ico
 
 plugins:
